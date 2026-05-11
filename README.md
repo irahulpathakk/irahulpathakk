@@ -43,9 +43,7 @@ Tools:
 - Mastering Backend Systems
 - Exploring Secure Coding Practices
 - Understanding Real-world Cyber Attacks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irahulpathakk&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irahulpathakk&theme=github-compact" />
 </p>
